@@ -21,11 +21,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="verifica_irpf2018_encadeado.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="verifica_irpf2018_encadeado.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/verifica_irpf2018_encadeado.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
               <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ifs_aninhados.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ifs_aninhados.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,6 +73,7 @@
         <option value="$PROJECT_DIR$/autoriza_usuario_ok.py" />
         <option value="$PROJECT_DIR$/imprime_ordenado_3.py" />
         <option value="$PROJECT_DIR$/verifica_irpf2018_encadeado.py" />
+        <option value="$PROJECT_DIR$/ifs_aninhados.py" />
       </list>
     </option>
   </component>
@@ -267,6 +278,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifs_aninhados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
