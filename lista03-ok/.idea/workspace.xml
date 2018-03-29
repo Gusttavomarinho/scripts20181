@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b859ea99-e2d0-4040-b530-49274e975e7d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/autoriza_usuario_ok.py" afterPath="$PROJECT_DIR$/autoriza_usuario_ok.py" />
+      <change beforePath="$PROJECT_DIR$/imprime_ordenado_3.py" afterPath="$PROJECT_DIR$/imprime_ordenado_3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,41 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cara_coroa_ok.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cara_coroa_ok.py">
+      <file leaf-file-name="imprime_ordenado_3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imprime_ordenado_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="verifica_irpf2018.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/verifica_irpf2018.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="85" lean-forward="true" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoriza_usuario_ok.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/autoriza_usuario_ok.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoriza_usuario_resposta_ok.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/autoriza_usuario_resposta_ok.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -74,6 +44,7 @@
         <option value="$PROJECT_DIR$/autoriza_usuario_resposta.txt" />
         <option value="$PROJECT_DIR$/autoriza_usuario.py" />
         <option value="$PROJECT_DIR$/autoriza_usuario_ok.py" />
+        <option value="$PROJECT_DIR$/imprime_ordenado_3.py" />
       </list>
     </option>
   </component>
@@ -132,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.autoriza_usuario">
+  <component name="RunManager" selected="Python.imprime_ordenado_3">
     <configuration name="autoriza_usuario" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,6 +117,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="lista03-ok" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autoriza_usuario_ok.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="imprime_ordenado_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lista03-ok" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imprime_ordenado_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,14 +158,16 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.verifica_irpf2018" />
       <item index="1" class="java.lang.String" itemvalue="Python.autoriza_usuario" />
+      <item index="2" class="java.lang.String" itemvalue="Python.imprime_ordenado_3" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.autoriza_usuario" />
-        <item index="1" class="java.lang.String" itemvalue="Python.verifica_irpf2018" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.imprime_ordenado_3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.autoriza_usuario" />
+        <item index="2" class="java.lang.String" itemvalue="Python.verifica_irpf2018" />
       </list>
     </recent_temporary>
   </component>
@@ -214,22 +205,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cara_coroa_ok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/verifica_irpf2018.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="85" lean-forward="true" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/autoriza_usuario_resposta_ok.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -242,6 +217,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verifica_irpf2018.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="85" lean-forward="true" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cara_coroa_ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imprime_ordenado_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding />
         </state>
       </provider>
