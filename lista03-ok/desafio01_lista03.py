@@ -2,7 +2,7 @@
 #jogo da velha we verifica se houve um vencedor.
 
 #Dados do script
-__author__="Gustavo Henrique
+__author__="Gustavo Henrique"
 __version__=1.1
 __email__="aluno@unirn.edu.br"
 # String de formatação do tabuleiro
