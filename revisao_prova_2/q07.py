@@ -5,10 +5,10 @@ def conta_vogais_consoantes(palavra):
     vogais = 0
     consoantes = 0
     for caracter in palavra:
-        if caracter in 'aeiou':
-            vogais = vogais + 1
+        if caracter in 'aeiouAEIOU':
+            vogais += 1
         else:
-            consoantes = consoantes + 1
+            consoantes +=  1
 
     print("Quantidade de vogais:",vogais)
     print("Quantidade de consoantes:",consoantes)
