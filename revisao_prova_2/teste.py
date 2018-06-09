@@ -13,3 +13,6 @@ def conta_vogais_consoantes():
 
     print("Quantidade de vogais:",vogais)
     print("Quantidade de consoantes:",consoantes)
+
+
+#atualizando
